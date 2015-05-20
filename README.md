@@ -1,2 +1,2 @@
 # jEmail-Crawler
-Simple Email Crwaler Using Java
+Simple Email Crwaler GUI Client  Using Java ;)
